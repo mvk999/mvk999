@@ -1,12 +1,24 @@
-<h1 align="center">Hi 👋, I'm Marcos</h1>
-<h3 align="center">Graduando em ciência da computação pela Universidade Federal de Lavras</h3>
+# Hi, I'm Marcos Vinícius 👋
 
-- 📫 How to reach me **pereiramv2006@gmail.com**
+Computer Science student at the Federal University of Lavras (UFLA), Brazil.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mvpereira2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mvpereira2006" height="30" width="40" /></a>
-</p>
+I enjoy building clear, well-organized solutions while exploring backend development, test automation, web applications, and mobile development.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## Technologies
+
+`Java` · `JavaScript` · `Python` · `C++` · `Dart` · `Flutter` · `SQL` · `PostgreSQL`
+
+## Selected projects
+
+- [Brasileirão Predictor](https://github.com/mvk999/brasileirao-predicotr)
+  Project for predicting Brasileirão match results.
+
+- [API Rhaegal](https://github.com/mvk999/zeus-backend)
+  API for managing members, budgets, and clients, created for Comp Júnior's 2025.1 backend challenge.
+
+- [ProjetoGrafos](https://github.com/mvk999/ProjetoGrafos)
+  Graph Algorithms project that explores routing under capacity constraints in the CARP problem.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/mvpereira2006/) · [Portfolio](https://mvk999.github.io/proWebPortifolio/) · [Email](mailto:pereiramv2006@gmail.com)
