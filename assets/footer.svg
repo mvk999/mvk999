@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="Decorative purple wave">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#322067"/>
+      <stop offset=".55" stop-color="#7035CF"/>
+      <stop offset="1" stop-color="#9460E9"/>
+    </linearGradient>
+    <clipPath id="bounds"><rect width="1200" height="90" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="90" fill="#131528"/>
+    <path d="M0 59 C169 6 270 84 433 60 S706 -3 885 46 S1086 70 1200 28 V90 H0 Z" fill="url(#fade)"/>
+    <path d="M0 77 C175 25 309 101 449 74 S751 21 899 66 S1091 88 1200 51" fill="none" stroke="#AA7CF9" stroke-width="26" opacity=".27"/>
+  </g>
+</svg>

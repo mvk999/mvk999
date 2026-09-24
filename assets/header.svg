@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title description">
+  <title id="title">Hi, I'm Marcos Vinícius</title>
+  <desc id="description">An indigo and violet banner about backend development and software quality.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11162D"/>
+      <stop offset="0.58" stop-color="#1B1746"/>
+      <stop offset="1" stop-color="#321464"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6841C3"/>
+      <stop offset="0.6" stop-color="#782BE4"/>
+      <stop offset="1" stop-color="#A454E9"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#AA91F1"/>
+      <stop offset="1" stop-color="#75DAEA"/>
+    </linearGradient>
+    <clipPath id="bounds"><rect width="1200" height="350" rx="19"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="350" fill="url(#background)"/>
+    <path d="M-60 328 C182 228 293 287 484 333 S851 388 1265 181 L1265 380 L-60 380 Z" fill="url(#wave)" opacity=".40"/>
+    <path d="M-20 353 C207 282 342 322 532 347 S958 343 1260 255" fill="none" stroke="#A661F2" stroke-width="42" opacity=".31"/>
+    <path d="M-40 250 C254 302 444 240 643 294 S993 299 1230 132" fill="none" stroke="#8E62E6" stroke-width="2" opacity=".24"/>
+
+    <g stroke="url(#line)" stroke-width="2.1" fill="none" opacity=".62">
+      <path d="M905 76 H1023 L1075 128 V196 L1126 247"/>
+      <path d="M960 166 H864 V244 H974 L1026 292"/>
+      <path d="M1060 62 V103 H1133 V154"/>
+    </g>
+    <g fill="#B9E7FF">
+      <circle cx="905" cy="76" r="5"/><circle cx="1075" cy="128" r="6"/>
+      <circle cx="1126" cy="247" r="5"/><circle cx="960" cy="166" r="5"/>
+      <circle cx="864" cy="244" r="6"/><circle cx="1026" cy="292" r="5"/>
+      <circle cx="1060" cy="62" r="5"/><circle cx="1133" cy="154" r="6"/>
+    </g>
+    <g fill="none" stroke="#A98AEF" opacity=".25">
+      <circle cx="1070" cy="172" r="173"/>
+      <circle cx="1070" cy="172" r="135"/>
+    </g>
+
+    <rect x="66" y="50" width="152" height="30" rx="15" fill="#AC85FF" fill-opacity=".16" stroke="#AC85FF" stroke-opacity=".48"/>
+    <text x="82" y="71" fill="#D7CAFF" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2">UFLA · BRAZIL</text>
+    <text x="64" y="151" fill="#FFFFFF" font-family="DejaVu Sans, Arial, sans-serif" font-size="58" font-weight="750">Hi, I'm</text>
+    <text x="64" y="226" fill="#FFFFFF" font-family="DejaVu Sans, Arial, sans-serif" font-size="65" font-weight="750">Marcos Vinícius.</text>
+    <rect x="67" y="249" width="47" height="4" rx="2" fill="#8FE5EF"/>
+    <text x="64" y="293" fill="#DCD5F4" font-family="DejaVu Sans, Arial, sans-serif" font-size="22">Backend development  ·  Software quality</text>
+  </g>
+</svg>
