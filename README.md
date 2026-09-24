@@ -21,4 +21,4 @@ I enjoy building clear, well-organized solutions while exploring backend develop
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/mvpereira2006/) · [Portfolio](https://mvk999.github.io/proWebPortifolio/) · [Email](mailto:pereiramv2006@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mvpereira2006/) · [Email](mailto:pereiramv2006@gmail.com)
